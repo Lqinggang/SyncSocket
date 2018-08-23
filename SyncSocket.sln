@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncTcpService", "SyncTcpService\SyncTcpService.csproj", "{6AA3F9BE-F4AA-4420-8188-9732E30AF2F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncTcpClient", "SyncTcpClient\SyncTcpClient.csproj", "{DB108217-6889-4A8C-88A0-8C5A8A485590}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "File", "File", "{7E26D9E4-5EAE-4BC6-809C-211618C36D9E}"
+	ProjectSection(SolutionItems) = preProject
+		BUG.txt = BUG.txt
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA3F9BE-F4AA-4420-8188-9732E30AF2F8}.Debug|x86.ActiveCfg = Debug|x86
+		{6AA3F9BE-F4AA-4420-8188-9732E30AF2F8}.Debug|x86.Build.0 = Debug|x86
+		{6AA3F9BE-F4AA-4420-8188-9732E30AF2F8}.Release|x86.ActiveCfg = Release|x86
+		{6AA3F9BE-F4AA-4420-8188-9732E30AF2F8}.Release|x86.Build.0 = Release|x86
+		{DB108217-6889-4A8C-88A0-8C5A8A485590}.Debug|x86.ActiveCfg = Debug|x86
+		{DB108217-6889-4A8C-88A0-8C5A8A485590}.Debug|x86.Build.0 = Debug|x86
+		{DB108217-6889-4A8C-88A0-8C5A8A485590}.Release|x86.ActiveCfg = Release|x86
+		{DB108217-6889-4A8C-88A0-8C5A8A485590}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

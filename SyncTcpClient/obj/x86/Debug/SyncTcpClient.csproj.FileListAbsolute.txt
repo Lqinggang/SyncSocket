@@ -1,0 +1,16 @@
+E:\code\NetWork\SyncSocket\SyncSocket\obj\x86\Debug\SyncSocket.TcpClientForm.resources
+E:\code\NetWork\SyncSocket\SyncSocket\obj\x86\Debug\SyncTcpClient.csproj.GenerateResource.Cache
+E:\code\NetWork\SyncSocket\SyncSocket\bin\Debug\SyncTcpClient.exe.config
+E:\code\NetWork\SyncSocket\SyncSocket\bin\Debug\SyncTcpClient.exe
+E:\code\NetWork\SyncSocket\SyncSocket\bin\Debug\SyncTcpClient.pdb
+E:\code\NetWork\SyncSocket\SyncSocket\obj\x86\Debug\SyncTcpClient.Properties.Resources.resources
+E:\code\NetWork\SyncSocket\SyncSocket\obj\x86\Debug\SyncTcpClient.exe
+E:\code\NetWork\SyncSocket\SyncSocket\obj\x86\Debug\SyncTcpClient.pdb
+E:\code\NetWork\SyncSocket\SyncTcpClient\bin\Debug\SyncTcpClient.exe.config
+E:\code\NetWork\SyncSocket\SyncTcpClient\bin\Debug\SyncTcpClient.exe
+E:\code\NetWork\SyncSocket\SyncTcpClient\bin\Debug\SyncTcpClient.pdb
+E:\code\NetWork\SyncSocket\SyncTcpClient\obj\x86\Debug\SyncTcpClient.Properties.Resources.resources
+E:\code\NetWork\SyncSocket\SyncTcpClient\obj\x86\Debug\SyncSocket.TcpClientForm.resources
+E:\code\NetWork\SyncSocket\SyncTcpClient\obj\x86\Debug\SyncTcpClient.csproj.GenerateResource.Cache
+E:\code\NetWork\SyncSocket\SyncTcpClient\obj\x86\Debug\SyncTcpClient.exe
+E:\code\NetWork\SyncSocket\SyncTcpClient\obj\x86\Debug\SyncTcpClient.pdb

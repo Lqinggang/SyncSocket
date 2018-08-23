@@ -1,0 +1,8 @@
+E:\code\NetWork\SyncSocket\SyncTcpService\bin\Debug\SyncTcpService.exe
+E:\code\NetWork\SyncSocket\SyncTcpService\bin\Debug\SyncTcpService.pdb
+E:\code\NetWork\SyncSocket\SyncTcpService\obj\x86\Debug\SyncTcpService.Properties.Resources.resources
+E:\code\NetWork\SyncSocket\SyncTcpService\obj\x86\Debug\SyncTcpService.TcpServiceForm.resources
+E:\code\NetWork\SyncSocket\SyncTcpService\obj\x86\Debug\SyncTcpService.csproj.GenerateResource.Cache
+E:\code\NetWork\SyncSocket\SyncTcpService\obj\x86\Debug\SyncTcpService.exe
+E:\code\NetWork\SyncSocket\SyncTcpService\obj\x86\Debug\SyncTcpService.pdb
+E:\code\NetWork\SyncSocket\SyncTcpService\bin\Debug\SyncTcpService.exe.config
