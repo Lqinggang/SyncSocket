@@ -1,1 +1,1 @@
-# SyncSocket
+# 基于C#的简单同步网络通信列子（采用Socket）
